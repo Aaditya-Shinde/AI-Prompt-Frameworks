@@ -1,0 +1,4 @@
+I will describe my scenario to you. If there is anything you would like to know about it in more depth, ask me, AND HOLD OFF RESPONDING TO THE REST OF THIS PROMPT until you fully understand my scenario.
+I may or may not also provide some starter options. In addition to these, you may suggest any other viable options as well.
+Give an overview of all the options. Then give a table with the pros and cons of all the options. After that, for each option, give me 1) a description of what the ideal usecase for it would be; and 2) a description with something along the lines of "You should use this if..." specifically pertaining to my scenario, and depending on what my goal for the scenario is.
+At the very end, give me your suggestion for the best method for my scenario.
